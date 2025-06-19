@@ -1,2 +1,3 @@
 # PRODIGY_GA_03
 Text Generation with Markov Chains
+Implementing a fundamental text generation algorithm using Markov Chains, a probabilistic model that learns the likelihood of transitions between characters or words based on a given dataset. This task involves building a statistical model that captures patterns in text and generates coherent sequences by predicting the next element using the current state. Ideal for understanding the basics of probabilistic language modeling, this project demonstrates how simple rules can be leveraged to mimic natural language and generate creative outputs such as poems, song lyrics, or synthetic data.
